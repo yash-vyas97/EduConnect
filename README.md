@@ -7,31 +7,31 @@
 
 ## Overview
 
-Skulchat's Flutter frontend leverages the Flutter framework to create a cross-platform mobile application for Android and iOS devices. It integrates with the Skulchat backend to enable users to access course information, communicate with peers, and interact with the educational community.
+The Flutter frontend leverages the Flutter framework to create a cross-platform mobile application for Android and iOS devices. It integrates with the backend to enable users to access course information, communicate with peers, and interact with the educational community.
 
 ## Features
 
 - **Cross-Platform Compatibility:** Built using Flutter, ensuring compatibility with both Android and iOS devices.
-- **User Authentication:** Allows users to securely log in to the Skulchat system using their credentials.
+- **User Authentication:** Allows users to securely log in to the EduConnect system using their credentials.
 - **Course Management:** Enables users to view course details, enroll in courses, and access course materials.
 - **Real-time Messaging:** Facilitates real-time messaging between students enrolled in the same course.
 - **Intuitive User Interface:** Provides a user-friendly interface for easy navigation and interaction.
 
 ## Setup and Installation
 
-To set up the Skulchat Flutter frontend, follow these steps:
+To set up the Flutter frontend, follow these steps:
 
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/skulchat-frontend.git
+git clone https://github.com/yourusername/EduConnect-frontend.git
 ```
 
 2. Install Flutter and ensure Flutter SDK is properly configured on your development environment. Refer to the [official Flutter documentation](https://flutter.dev/docs/get-started/install) for installation instructions.
 
-3. Open the Skulchat Flutter project in your preferred IDE or code editor.
+3. Open the EduConnect Flutter project in your preferred IDE or code editor.
 
-4. Update the backend API endpoint URLs in the Flutter codebase to point to your Skulchat backend server.
+4. Update the backend API endpoint URLs in the Flutter codebase to point to your EduConnect backend server.
 
 5. Run the following command to fetch dependencies:
 
@@ -47,9 +47,9 @@ flutter run
 
 ## Usage
 
-Once the Skulchat Flutter frontend is running, users can perform the following actions:
+Once the Front-end Flutter frontend is running, users can perform the following actions:
 
-- **Log In:** Users can log in to the Skulchat system using their credentials.
+- **Log In:** Users can log in to the EduConnect system using their credentials.
 - **View Courses:** Users can browse through available courses, view course details, and enroll in courses of interest.
 - **Messaging:** Users can engage in real-time messaging with other students enrolled in the same course.
 - **Access Course Materials:** Users can access course materials and resources provided by teachers.
